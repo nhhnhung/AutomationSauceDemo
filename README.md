@@ -13,7 +13,7 @@
 - Áp dụng **Page Object Model (POM)** giúp code dễ bảo trì.
 
 ## Prerequisites
-- Java JDK 8 trở lên
+- Java JDK 17
 - Maven
 - IDE: IntelliJ IDEA / Eclipse
 - Git
